@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "BatteryHunter",
+"productVersion": "1.0.0",
+"dataUrl": "BatteryHunterWebGL.data.unityweb",
+"wasmCodeUrl": "BatteryHunterWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "BatteryHunterWebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#006D80",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.14f1"
+}
