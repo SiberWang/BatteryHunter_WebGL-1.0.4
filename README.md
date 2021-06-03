@@ -1,8 +1,7 @@
-# WebGL-Game-fix002
+# BatteryHunter_WebGL 1.0.4
 This is My First Practical work. 
 Hope you enjoy it. 
 
-(I can't fix the bug ! T_T)
-If you kill a little boss , but you can't get out.
-Press "O". Door will open.
+If you can't get out the room.
+Press " O ". Door will open.
 
